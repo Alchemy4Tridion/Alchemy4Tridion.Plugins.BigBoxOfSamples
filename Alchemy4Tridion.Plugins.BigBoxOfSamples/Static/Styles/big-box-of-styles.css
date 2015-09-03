@@ -1,0 +1,16 @@
+﻿/* context menu item */
+.contextmenu #bigbox_of_samples > .image {
+    background-image: url('${ImgUrl}box-16x16.png');
+}
+
+/* main icon in full ribbon mode */
+.ribbontoolbar #BigBoxRibbonToolbarSingleButton.button .image, .ribbontoolbar #BigBoxRibbonButtonDropDownControl.button .image
+{
+    background-image: url('${ImgUrl}box-32x32.png');
+}
+
+/* main icon in minimized ribbon mode */
+.ribbontoolbar.minimized #BigBoxRibbonToolbarSingleButton.button .image, .ribbontoolbar.minimized #BigBoxRibbonButtonDropDownControl.button .image
+{
+    background-image: url('${ImgUrl}box-16x16.png');
+}

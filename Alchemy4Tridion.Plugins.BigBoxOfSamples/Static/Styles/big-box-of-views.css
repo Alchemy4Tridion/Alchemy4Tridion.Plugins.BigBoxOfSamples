@@ -1,0 +1,4 @@
+﻿/**
+ * Styling for your views. Pretty common... not adding much besides a lil something to show the resource has loaded.
+ */
+h1 { padding: 5px; border-bottom: 1px solid #ddd; }

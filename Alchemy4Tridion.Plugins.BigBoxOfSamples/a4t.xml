@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<plugin xmlns:c="http://www.alchemywebstore.com/configuration/definitions" xmlns="http://www.alchemywebstore.com/">
+  <id>55e8993ae4de02138c31b548</id>
+  <name>Big_Box_Of_Samples</name>
+  <description><![CDATA[An example project that contains various samples of different extensions that can be added to your plugin. This project is also used by the Alchemy team to validate new versions of the framework.]]></description>
+  <version>1.0.0.0</version>
+  <settings>
+    <DeveloperName>
+    </DeveloperName>
+    <IsNewToAlchemy c:type="bool">
+    </IsNewToAlchemy>
+    <Languages c:multi="true" c:element="Language">
+    </Languages>
+  </settings>
+  <versionId>55e8993ae4de02138c31b549</versionId>
+  <frameworkVersion>0.6.2.0</frameworkVersion>
+  <buildTime>2015-09-03T15:01:48.151866-04:00</buildTime>
+</plugin>
