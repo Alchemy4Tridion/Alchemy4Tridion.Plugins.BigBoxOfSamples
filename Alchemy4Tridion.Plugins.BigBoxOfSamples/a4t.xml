@@ -2,7 +2,11 @@
 <plugin xmlns:c="http://www.alchemywebstore.com/configuration/definitions" xmlns="http://www.alchemywebstore.com/">
   <id>55e8993ae4de02138c31b548</id>
   <name>Big_Box_Of_Samples</name>
-  <description><![CDATA[An example project that contains various samples of different extensions that can be added to your plugin. This project is also used by the Alchemy team to validate new versions of the framework.]]></description>
+  <description><![CDATA[An example project that contains various samples of different extensions that can be added to your plugin. This project is also used by the Alchemy team to validate new versions of the framework.
+
+This should only be installed if testing the various extensions that is provided and should not be installed on client instances as it will add a lot of clutter to the interface.
+
+For more information on how these extensions were created, follow the GitHub link below to check out its source repository!]]></description>
   <version>1.0.0.0</version>
   <settings>
     <DeveloperName>
@@ -13,6 +17,4 @@
     </Languages>
   </settings>
   <versionId>55e8993ae4de02138c31b549</versionId>
-  <frameworkVersion>0.6.2.0</frameworkVersion>
-  <buildTime>2015-09-03T15:01:48.151866-04:00</buildTime>
 </plugin>

@@ -1,5 +1,5 @@
 ﻿<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
+<head>
     <title>Big Box of Samples Popup</title>
 </head>
 <body>
